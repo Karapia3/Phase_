@@ -2,7 +2,7 @@
 
 Movie and film production is a lucrative industry. However it is an expensive and costly affair therefore an organisation has to do extensive research before hitting the ground running. Luckily for  Microsoft movie project there is data available that I will use to analyse and come up with actionable insights for the head of Microsoft new movie studio on the types of film to produce.
 
-TO accomplish my objectives, I will use the following datasets:
+To accomplish my objectives, I will use the following datasets:
 
 1. Movie_info data dataset
 
